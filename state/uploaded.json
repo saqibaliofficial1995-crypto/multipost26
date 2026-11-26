@@ -1,4 +1,29 @@
 {
-  "items": {},
-  "history": []
+  "items": {
+    "1c_r4cWa4beDVwLa0ZFd6kWH6ajIn7NSK": {
+      "name": "The 07 Most Unbelievable Animal Friendships Ever Caught on Camera #Shorts #AnimalFriendship #CuteAnimals #ViralShorts #AnimalLovers.mp4",
+      "yt_id": "b6XZqQIXO_0",
+      "yt_url": "https://youtu.be/b6XZqQIXO_0",
+      "title": "The most unexpected animal friendship ever!",
+      "topic": "animal friendship",
+      "tags_count": 12,
+      "hashtags": [
+        "#shorts",
+        "#animallove",
+        "#cuteanimals"
+      ],
+      "drive_removal": "unlinked",
+      "uploaded_at": "2026-11-26T18:32:15.666893+00:00"
+    }
+  },
+  "history": [
+    {
+      "drive_id": "1c_r4cWa4beDVwLa0ZFd6kWH6ajIn7NSK",
+      "yt_id": "b6XZqQIXO_0",
+      "title": "The most unexpected animal friendship ever!",
+      "topic": "animal friendship",
+      "drive_removal": "unlinked",
+      "timestamp": "2026-11-26T18:32:15.666893+00:00"
+    }
+  ]
 }
