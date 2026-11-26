@@ -1,22 +1,15 @@
 {
-  "channel_name": "Happy Pet Life",
-  "channel_id": "",
-  "category_id": "22",
-  "default_tags": [
-    "pets",
-    "cute animals",
-    "funny pets",
-    "dogs",
-    "cats",
-    "animals",
-    "shorts"
-  ],
+  "made_for_kids": false,
+  "privacy_status": "public",
   "default_language": "en",
-  "schedule_times": [
-    "05:00",
-    "11:00",
-    "17:00"
-  ],
   "max_uploads_per_run": 1,
-  "concurrency_limit": 1
+  "drive_folder_id": "16TqYu0q_g3_RRJS3Ij0-z78MQXN8mnqX",
+  "ai_provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "comment_reply": {
+    "enabled": true,
+    "max_replies_per_run": 15,
+    "lookback_days": 7
+  },
+  "category_id": "22"
 }
