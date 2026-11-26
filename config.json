@@ -1,0 +1,22 @@
+{
+  "channel_name": "Happy Pet Life",
+  "channel_id": "",
+  "category_id": "22",
+  "default_tags": [
+    "pets",
+    "cute animals",
+    "funny pets",
+    "dogs",
+    "cats",
+    "animals",
+    "shorts"
+  ],
+  "default_language": "en",
+  "schedule_times": [
+    "05:00",
+    "11:00",
+    "17:00"
+  ],
+  "max_uploads_per_run": 1,
+  "concurrency_limit": 1
+}
